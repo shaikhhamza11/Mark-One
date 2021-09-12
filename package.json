@@ -1,0 +1,24 @@
+{
+  "name": "mark-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaikhhamza11/Mark-One.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaikhhamza11/Mark-One/issues"
+  },
+  "homepage": "https://github.com/shaikhhamza11/Mark-One#readme"
+}
